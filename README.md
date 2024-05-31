@@ -1,5 +1,7 @@
 # Project #10 - Python Application Deployment on ElasticBean
 
+Note: I don't have permission to share Client's code, that's why I have excluded it :)
+
 Project Type: Python Application Deployment on Elastic Bean Stalk Cluster.
 
 Project Description: Client asked me to deploy his application on AWS ElasticBeanStalk set up a GitHub Actions pipeline that will automatically deploy a new version whenever changes are pushed to the repository.
