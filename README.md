@@ -82,5 +82,5 @@ jobs:
 ## Key Learnings
 
 - Elastic Beanstalk abstracts away EC2, load balancers, and auto-scaling — you deploy the application, AWS manages the infrastructure
-- GitHub Actions + Elastic Beanstalk is a clean, low-overhead CI/CD setup for Python applications
+- GitHub Actions + Elastic Beanstalk is a clean, low-overhead CI/CD setup for Python application
 - Storing AWS credentials in GitHub Secrets keeps the pipeline secure without hardcoding sensitive values
