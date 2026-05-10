@@ -7,7 +7,7 @@
 
 ## Overview
 
-Deployed a Python application on AWS Elastic Beanstalk and set up a GitHub Actions CI/CD pipeline that automatically deploys a new version to Elastic Beanstalk on every push to the repository. The client can now push code and see it live without any manual deployment steps.
+Deployed a Python application on AWS Elastic Beanstalk and set up a GitHub Actions CI/CD pipeline that automatically deploys a new version to Elastic Beanstalk on every push to the repository. The client can now push code and see it live without any manual deployment steps
 
 > Note: Client code is excluded from this repository as per confidentiality agreement.
 
